@@ -1,0 +1,11 @@
+{
+    "user_state": 1,
+    "message_to_edit": 121,
+    "items_per_page": 10,
+    "total_pages": 37,
+    "min_stock": 500,
+    "sort_type": "by_growth",
+    "growth_sort_time_interval": 5,
+    "alert_interval": 5,
+    "alert_percent": 2
+}
